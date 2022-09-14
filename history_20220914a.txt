@@ -1,0 +1,34 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  ls -l
+    6  ls -la
+    7  whoami
+    8  git clone https://github.com/tatusmatrix/RTR105_2022_foreign
+    9  mkdir RTR105_2022_foreign
+   10  git clone https://github.com/tatusmatrix/RTR105_2022_foreign RTR105
+   11  ls
+   12  ls -l
+   13  ls -lt
+   14  cd RTR105
+   15  pwd
+   16  ls -l
+   17  ls -la
+   18  pwd
+   19  ls -la
+   20  pwd
+   21  ls -la
+   22  cd ..
+   23  git clone https://github.com/Agil444/RTR105
+   24  git clone https://github.com/Agil444/RTR105 RTR105a
+   25  ls -lt
+   26  pwd
+   27  ls -lt
+   28  cd RTR105
+   29  pwd
+   30  ls -la
+   31  pwd
+   32  ls -la
+   33  history 
+   34  history > history_20220914a.txt
