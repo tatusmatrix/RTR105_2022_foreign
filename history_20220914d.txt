@@ -1,0 +1,99 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  ls -l
+    6  ls -la
+    7  whoami
+    8  git clone https://github.com/tatusmatrix/RTR105_2022_foreign
+    9  mkdir RTR105_2022_foreign
+   10  git clone https://github.com/tatusmatrix/RTR105_2022_foreign RTR105
+   11  ls
+   12  ls -l
+   13  ls -lt
+   14  cd RTR105
+   15  pwd
+   16  ls -l
+   17  ls -la
+   18  pwd
+   19  ls -la
+   20  pwd
+   21  ls -la
+   22  cd ..
+   23  git clone https://github.com/Agil444/RTR105
+   24  git clone https://github.com/Agil444/RTR105 RTR105a
+   25  ls -lt
+   26  pwd
+   27  ls -lt
+   28  cd RTR105
+   29  pwd
+   30  ls -la
+   31  pwd
+   32  ls -la
+   33  history 
+   34  history > history_20220914a.txt
+   35  ls -la
+   36  cat history_20220914a.txt 
+   37  ls -la
+   38  git add .
+   39  git config --global user.name tatusmatrix
+   40  git config --global user.email ...
+   41  git commit -m "Class_03b"
+   42  git push origin main
+   43  pwd
+   44  ls -lt
+   45  cat history_20220914a.txt 
+   46  history > history_20220914b.txt
+   47  ls -lt
+   48  echo "dgds"
+   49  echo "dgds" > a.txt
+   50  ls -lt
+   51  cat a.txt 
+   52  echo "erjwjrwrw" > a.txt
+   53  cat a.txt 
+   54  cat history_20220914b.txt 
+   55  nano history_20220914b.txt 
+   56  ls -lt
+   57  cat history_20220914b.txt 
+   58  ls
+   59  whereis ls
+   60  pwd
+   61  ls -l /bin/ls
+   62  ls
+   63  /bin/ls
+   64  ls
+   65  echo $PATH
+   66  pwd
+   67  nano my_first_script.sh
+   68  ls -lt
+   69  cat my_first_script.sh 
+   70  my_first_script.sh
+   71  pwd
+   72  ./my_first_script.sh
+   73  man chmod
+   74  chmod 764 my_first_script.sh 
+   75  ls -lt
+   76  my_first_script.sh
+   77  ./my_first_script.sh 
+   78  ls -lt
+   79  cd Class_03/
+   80  ls -lt
+   81  cd ..
+   82  ls -lt
+   83  man chmod
+   84  chmod 764 my_first_script.sh 
+   85  ls -lt
+   86  my_first_script.sh
+   87  pwd
+   88  nano my_first_script.sh 
+   89  l -lt
+   90  ls -lt
+   91  rmdir Class_03/
+   92  rmdir -r Class_03/
+   93  rm -rf Class_03/
+   94  ls -lt
+   95  ./my_first_script.sh 
+   96  ls -lt
+   97  ls -lt Class_03/
+   98  nano Class_03/history_20220914c.txt 
+   99  history > history_20220914d.txt
