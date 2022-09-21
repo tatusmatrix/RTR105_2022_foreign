@@ -1,0 +1,74 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  uname
+    4  uname -a
+    5  pwd
+    6  ls -lt
+    7  nano hello-world
+    8  ls -lt
+    9  hello-world
+   10  ls
+   11  whereis ls
+   12  ls -lt /bin/ls
+   13  cat /bin/ls
+   14  whereis ls
+   15  ls -lt /bin/ls
+   16  ls
+   17  ls -lt
+   18  /home/user/hello-world
+   19  ls -lt
+   20  chmod 744 hello-world 
+   21  ls -lt
+   22  ls -lt hello-world 
+   23  hello-world
+   24  who
+   25  whoami
+   26  ~/hello-world 
+   27  pwd
+   28  /home/user/hello-world 
+   29  ./hello-world 
+   30  hello-world
+   31  ls
+   32  echo $PATH
+   33  ls -lt hello-world 
+   34  hello-world
+   35  ls
+   36  pwd
+   37  echo $PATH
+   38  cp hello-world /usr/local/bin/
+   39  pwd
+   40  ls -lt hello-world 
+   41  echo $PATH
+   42  PATH=$PATH
+   43  echo $PATH
+   44  PATH=$PATH:/home/user:~:.
+   45  echo $PATH
+   46  hello-world 
+   47  echo $PATH
+   48  hello-world 
+   49  ls -lt
+   50  mkdir tests
+   51  cd tests
+   52  pwd
+   53  hello-world 
+   54  pwd
+   55  history 
+   56  nano
+   57  cd
+   58  pwd
+   59  ls -lt
+   60  git clone https://github.com/tatusmatrix/RTR105_2022_foreign
+   61  ls -lt
+   62  git clone https://github.com/tatusmatrix/RTR105_2022_foreignls -lt
+   63  ls -lt
+   64  pwd
+   65  mv hello-world RTR105_2022_foreign/
+   66  ls -lt
+   67  cd RTR105_2022_foreign/
+   68  pwd
+   69  ls -lt
+   70  nano git-upload
+   71  ls -lt
+   72  cat git-upload 
+   73  history 
+   74  history > history_20220921.txt
