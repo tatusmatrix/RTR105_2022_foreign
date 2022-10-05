@@ -1,0 +1,23 @@
+1. read about printf
+   https://cplusplus.com/reference/cstdio/printf/
+
+2. read about scanf
+   https://cplusplus.com/reference/cstdio/scanf/
+
+3. write codes (from examples), compile and execute them
+
+
++  read about data types:
+   https://www.geeksforgeeks.org/data-types-in-c/
+
+                                               MSB byte  LSB
+        0101 0100     0101 1010     0101 1110    1110 0001
+                                             "senior" "junior"
+                                                  half-byte
+                                              "older" "younger"
+
+   "portions" in C language:
+    1 byte  - 
+    2 bytes - 
+    4 bytes - 
+    8 bytes - 
