@@ -1,0 +1,56 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano
+    4  git clone https://github.com/tatusmatrix/RTR105_2022_foreign
+    5  cd RTR105_2022_foreign/
+    6  mkdir Class_09
+    7  ls -lt
+    8  cd Class_09/
+    9  pwd
+   10  nano char_data_type_tests.c
+   11  gcc char_data_type_tests.c 
+   12  nano char_data_type_tests.c
+   13  ls -lt
+   14  gcc char_data_type_tests.c 
+   15  nano char_data_type_tests.c
+   16  gcc char_data_type_tests.c 
+   17  ls -lt
+   18  ./a.out 
+   19  gcc char_data_type_tests.c 
+   20  ./a.out 
+   21  ./a
+   22  ls -lt
+   23  gcc char_data_type_tests.c -o a
+   24  ls -lt
+   25  ./a
+   26  rm a
+   27  ls -lt
+   28  nano char_data_type_tests.c
+   29  ./a.out 
+   30  gcc char_data_type_tests.c 
+   31  ls -lt
+   32  ./a.out 
+   33  cat char_data_type_tests.c 
+   34  nano char_data_type_tests.c
+   35  gcc char_data_type_tests.c 
+   36  nano char_data_type_tests.c
+   37  gcc char_data_type_tests.c 
+   38  nano char_data_type_tests.c
+   39  gcc char_data_type_tests.c 
+   40  ./a.out 
+   41  nano char_data_type_tests.c
+   42  gcc char_data_type_tests.c 
+   43  ./a.out 
+   44  nano char_data_type_tests.c
+   45  gcc char_data_type_tests.c 
+   46  ./a.out 
+   47  nano char_data_type_tests.c
+   48  gcc char_data_type_tests.c 
+   49  ./a.out 
+   50  nano char_data_type_tests.c
+   51  gcc char_data_type_tests.c 
+   52  ./a.out 
+   53  nano char_data_type_tests.c
+   54  ls -lt
+   55  cd ..
+   56  history > history_20221012.txt
