@@ -59,3 +59,27 @@
    59  nano loop_do_while_tests.c 
    60  cd ..
    61  history > history_20221026.txt
+   62  ./git-upload 12a
+   63  pwd
+   64  cd ..
+   65  ls -lt
+   66  cd RTR105_2022_foreign/Class_12
+   67  ls -lt
+   68  rm *.out
+   69  ls -lt
+   70  gcc loop_for_tests.c -o without.out
+   71  gcc -g loop_for_tests.c -o with.out
+   72  ls -lt
+   73  ./with.out 
+   74  ./without.out 
+   75  ls -lt
+   76  gdb
+   77  ls -lt
+   78  gdb without.out 
+   79  gdb with.out 
+   80  nano factorial_for.c
+   81  gcc factorial_for.c 
+   82  ./a.out 
+   83  nano factorial_for.c
+   84  cd ..
+   85  history > history_20221026.txt 
