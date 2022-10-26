@@ -1,0 +1,61 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_foreign
+    4  cd RTR105_2022_foreign/
+    5  mkdir Class_12
+    6  cd Class_12/
+    7  pwd
+    8  nano loops_tests.c
+    9  gcc loops_tests.c
+   10  ls -lt
+   11  ./a.out 
+   12  nano loops_tests.c
+   13  gcc loops_tests.c
+   14  ./a.out 
+   15  nano loops_tests.c
+   16  gcc loops_tests.c
+   17  ./a.out 
+   18  nano loops_tests.c
+   19  gcc loops_tests.c
+   20  ./a.out 
+   21  nano loops_tests.c
+   22  gcc loops_tests.c
+   23  ./a.out 
+   24  nano loops_tests.c
+   25  gcc loops_tests.c
+   26  ./a.out 
+   27  nano loops_tests.c
+   28  gcc loops_tests.c
+   29  ./a.out 
+   30  nano loops_tests.c
+   31  ls -lt
+   32  mv loops_tests.c loop_while_tests.c 
+   33  ls -lt
+   34  cp loop_while_tests.c loop_for_tests.c 
+   35  ls -lt
+   36  nano loop_for_tests.c 
+   37  gcc loop_for_tests.c 
+   38  ./a.out 
+   39  ls -lt
+   40  gcc loop_while_tests.c -o while.out
+   41  gcc loop_for_tests.c -o for.out
+   42  ls -lt
+   43  cp loop_while_tests.c loop_do_while_tests.c 
+   44  ls -lt
+   45  nano loop_do_while_tests.c 
+   46  gcc loop_do_while_tests.c 
+   47  ./a.out 
+   48  nano loop_do_while_tests.c 
+   49  gcc loop_do_while_tests.c 
+   50  ./a.out 
+   51  nano loop_while_tests.c 
+   52  gcc loop_do_while_tests.c 
+   53  gcc loop_while_tests.c 
+   54  ./a.out 
+   55  nano loop_while_tests.c 
+   56  gcc loop_while_tests.c 
+   57  ./a.out 
+   58  nano loop_while_tests.c 
+   59  nano loop_do_while_tests.c 
+   60  cd ..
+   61  history > history_20221026.txt
