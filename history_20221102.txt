@@ -1,0 +1,144 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  matlab &
+    4  ls -lt
+    5  git clone https://github.com/tatusmatrix/RTR105_2022_foreign
+    6  cd RTR105_2022_foreign/
+    7  mkdir Class_13
+    8  cd Class_13/
+    9  pwd
+   10  nano user_function.c
+   11  ls -lt
+   12  gcc user_function.c 
+   13  ./a.out 
+   14  nano user_function.c
+   15  gcc user_function.c 
+   16  ./a.out 
+   17  nano user_function.c
+   18  gcc user_function.c 
+   19  nano user_function.c
+   20  gcc user_function.c 
+   21  ./a.out 
+   22  gcc -g user_function.c 
+   23  ls -lt
+   24  gdb a.out 
+   25  nano user_function.c
+   26  gcc user_function.c 
+   27  nano user_function.c
+   28  gcc user_function.c 
+   29  nano user_function.c
+   30  gcc user_function.c 
+   31  nano user_function.c
+   32  gcc user_function.c 
+   33  nano user_function.c
+   34  gcc user_function.c 
+   35  ./a.out 
+   36  nano user_function.c
+   37  gcc user_function.c 
+   38  ./a.out 
+   39  nano user_function.c
+   40  gcc user_function.c 
+   41  ./a.out 
+   42  nano user_function.c
+   43  ls -lt
+   44  nano user_function.c
+   45  cp user_function.c user_function_better_style.c 
+   46  ls -lt
+   47  nano user_function_better_style.c 
+   48  gcc user_function_better_style.c 
+   49  nano user_function_better_style.c 
+   50  gcc user_function_better_style.c 
+   51  ./a.out 
+   52  nano user_function_better_style.c 
+   53  ./a.out 
+   54  gcc user_function_better_style.c 
+   55  nano user_function_better_style.c 
+   56  gcc user_function_better_style.c 
+   57  nano user_function_better_style.c 
+   58  gcc user_function_better_style.c 
+   59  nano user_function_better_style.c 
+   60  gcc user_function_better_style.c 
+   61  nano user_function_better_style.c 
+   62  gcc user_function_better_style.c 
+   63  ./a.out 
+   64  nano user_function_better_style.c 
+   65  nano main_with_arguments.c
+   66  gcc main_with_arguments.c
+   67  ./a.out 
+   68  cp a.out aaaaaa.out
+   69  ./aaaaaa.out 
+   70  ./aaaaaa.out 45 96 pppp
+   71  nano main_with_arguments.c
+   72  gcc main_with_arguments.c
+   73  ./a
+   74  rm aaaaaa.out 
+   75  ./a.out 
+   76  ./a.out 44 kk 96
+   77  cat main_with_arguments.c 
+   78  nano main_with_arguments.c
+   79  ./a.out 44 kk 96
+   80  gcc main_with_arguments.c
+   81  nano main_with_arguments.c
+   82  gcc main_with_arguments.c
+   83  nano main_with_arguments.c
+   84  gcc main_with_arguments.c
+   85  nano main_with_arguments.c
+   86  gcc main_with_arguments.c
+   87  ./a.out 44 74 56
+   88  nano main_with_arguments.c
+   89  ls -lt
+   90  nano main.c
+   91  nano foo.h
+   92  nano foo.c
+   93  ls -lt
+   94  gcc main.c
+   95* cat 
+   96  gcc foo.c
+   97  ls -lt
+   98  gcc -Wall -c foo.c
+   99  ls -lt
+  100  cat foo.o
+  101  ls -lt
+  102  gcc -Wall -c main.c
+  103  ls -lt
+  104  gcc foo.o main.o
+  105  ls -lt
+  106  gcc -o result.out foo.o main.o
+  107  ls -lt
+  108  ./result.out 
+  109  nano foo.c 
+  110  gcc -Wall -c foo.c
+  111  ls -lt
+  112  gcc -o result.out foo.o main.o
+  113  ./result.out 
+  114  nano foo.c 
+  115  ls -lt
+  116  rm a.out result.out 
+  117  ls -lt
+  118  gcc --save-temps -c foo.c
+  119  ls -lt
+  120  gcc --save-temps -c main.c
+  121  ls -lt
+  122  rm *.o *.s
+  123  ls -lt
+  124  cat foo.i
+  125  ls -lt
+  126  gcc --save-temps -c main.i
+  127  gcc --save-temps -c foo.i
+  128  ls -lt
+  129  rm *.o
+  130  gcc --save-temps -c main.s
+  131  ls -lt
+  132  gcc --save-temps -c foo.s
+  133  ls -lt
+  134  nano foo.s
+  135  gcc -c main.o foo.o
+  136  gcc main.o foo.o
+  137  gcc foo.o main.o
+  138  gcc main.o foo.o -o test1
+  139  gcc foo.o main.o -o test2
+  140  ls -lt
+  141  cd ..
+  142  nano advanced_approaches.txt
+  143  ls -lt
+  144  history > history_20221102.txt
