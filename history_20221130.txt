@@ -1,0 +1,48 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/tatusmatrix/RTR105_2022_foreign
+    4  cd RTR105_2022_foreign/
+    5  ls -lt
+    6  ls -t
+    7  mkdir Class_17
+    8  mkdir Class_18
+    9  mkdir Class_19
+   10  mkdir Class_20
+   11  cd Class_19
+   12  pwd
+   13  gnuplot
+   14  nano example.gp
+   15  gnuplot
+   16  nano example.gp
+   17  gnuplot
+   18  nano example.gp
+   19  gnuplot
+   20  cd ..
+   21  ls -lt
+   22  cd Class_18
+   23  ls -lt
+   24  nano long_double_test.c
+   25  gcc long_double_test.c
+   26  nano long_double_test.c
+   27  gcc long_double_test.c
+   28  ./a.out 
+   29  nano long_double_test.c
+   30  gcc long_double_test.c
+   31  ./a.out 
+   32  nano long_double_test.c
+   33  gcc long_double_test.c
+   34  ./a.out 
+   35  nano long_double_test.c
+   36  y
+   37  nano long_double_test.c
+   38  gcc long_double_test.c
+   39  ./a.out 
+   40  nano long_double_test.c
+   41  gcc long_double_test.c
+   42  nano long_double_test.c
+   43  gcc long_double_test.c
+   44  ./a.out 
+   45  cat long_double_test.c 
+   46  ls -lt
+   47  cd ..
+   48  history > history_20221130.txt
